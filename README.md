@@ -1,3 +1,5 @@
+![Rec Room Archive (2)](https://github.com/user-attachments/assets/f74ec38d-7667-4f3a-bc65-e0f3067ece94)
+
 # Rec Room Archive
 
  **Hello and welcome to the Rec Room Archive!**
@@ -15,16 +17,16 @@ The files might switch around on each batch and upload.
 # Credits
 
 **Photos**
-All of the photos a took by me (ruytha)
+- All of the photos a took by Ruytha
 
 **Inventions**
-Some by me and other people
+- Rutytha and other people
 
 **Rooms**
-Rooms by me and </Totally> and other users
+- Ruytha, </Totally> and other users
 
 **Cloud data**
-Rooms have their names in there files
+- Rooms have their names in there files
 
 # Other yapping
 
